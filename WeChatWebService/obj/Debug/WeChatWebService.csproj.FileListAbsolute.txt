@@ -11,6 +11,5 @@ D:\Projects\Pretty\WeChatWebService\WeChatWebService\bin\WeChatWebService.dll
 D:\Projects\Pretty\WeChatWebService\WeChatWebService\bin\WeChatWebService.pdb
 D:\Projects\Pretty\WeChatWebService\WeChatWebService\bin\Newtonsoft.Json.dll
 D:\Projects\Pretty\WeChatWebService\WeChatWebService\bin\Newtonsoft.Json.xml
-D:\Projects\Pretty\WeChatWebService\WeChatWebService\obj\Debug\WeChatWebService.csprojResolveAssemblyReference.cache
 D:\Projects\Pretty\WeChatWebService\WeChatWebService\obj\Debug\WeChatWebService.dll
 D:\Projects\Pretty\WeChatWebService\WeChatWebService\obj\Debug\WeChatWebService.pdb
