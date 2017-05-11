@@ -1,0 +1,8 @@
+D:\Projects\WeChatWebService\WeChatWebService\bin\WeChatWebService.dll.config
+D:\Projects\WeChatWebService\WeChatWebService\bin\WeChatWebService.dll
+D:\Projects\WeChatWebService\WeChatWebService\bin\WeChatWebService.pdb
+D:\Projects\WeChatWebService\WeChatWebService\obj\Release\WeChatWebService.csprojResolveAssemblyReference.cache
+D:\Projects\WeChatWebService\WeChatWebService\obj\Release\WeChatWebService.dll
+D:\Projects\WeChatWebService\WeChatWebService\obj\Release\WeChatWebService.pdb
+D:\Projects\WeChatWebService\WeChatWebService\bin\Newtonsoft.Json.dll
+D:\Projects\WeChatWebService\WeChatWebService\bin\Newtonsoft.Json.xml
